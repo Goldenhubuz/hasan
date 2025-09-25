@@ -1,0 +1,12 @@
+site_name: My Docs
+
+theme:
+  name: material
+
+extra:
+  version:
+    provider: mike
+
+nav:
+  - Home: index.md
+  - "PDP Academiyaning Python Backend Sertifikatini qo'lga kiritish..md"
